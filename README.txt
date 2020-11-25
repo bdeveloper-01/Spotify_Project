@@ -1,0 +1,1 @@
+This project was developed to improve my skills as a front-end developer. and it's a simple copy of Spotify. It is not of commercial interest in any way, so I would like to warn you that the project is only available for studies.
